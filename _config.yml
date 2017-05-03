@@ -29,13 +29,13 @@ author:
   email:             f.klampfer@gmail.com
 
 # Fallback image and color if not overwritten
-image:               //qwtel.com/hydejack/assets/img/nap.jpg
-color:               '#A85641'
+image:               https://upload.wikimedia.org/wikipedia/commons/f/fc/Mandel_zoom_08_satellite_antenna.jpg
+color:               '#00e'
 
 # Remove to disable Google Fonts
-google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
-font:                "'Noto Serif', Georgia, serif"
+# google_fonts:        null
+font_heading:        serif
+font:                serif
 
 # Remove to disable Google Anaylics
 google_analytics:    UA-84025722-2
